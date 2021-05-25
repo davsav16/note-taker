@@ -1,7 +1,9 @@
 const express = require('express');
+const { notes } = require('./data/notes')
+
 const PORT = process.env.PORT || 3001
 const app = express();
-const { notes } = require('./data/notes')
+
 
 app.get('/api/notes', (req, res) => {
     res.json(notes);
