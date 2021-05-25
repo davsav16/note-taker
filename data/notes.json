@@ -1,8 +1,29 @@
 {
-    "notes":[
-        {
-            "title":"Test Title",
-            "text":"Test text"
-        }
-    ]
+  "notes": [
+    {
+      "id": "0",
+      "title": "Test Title",
+      "text": "Test text"
+    },
+    {
+      "id": "1",
+      "title": "ObiWon",
+      "text": "Gain the High ground"
+    },
+    {
+      "id": "2",
+      "title": "What is up",
+      "text": "Game on son"
+    },
+    {
+      "id": "3",
+      "title": "to do",
+      "text": "git it done"
+    },
+    {
+      "title": "Make breakfast",
+      "text": "Jump up and get down",
+      "id": "4"
+    }
+  ]
 }
