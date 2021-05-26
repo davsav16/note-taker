@@ -23,7 +23,7 @@ function validateNote(note) {
         return false;
     }
     return true;
-}
+} 
 
 function createNewNote(body, notesArray) {
     const note = body;
